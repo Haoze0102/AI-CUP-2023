@@ -23,7 +23,9 @@ This repository documents our codebase that achieved a commendable RANK 14 in th
 
 - **QLoRA_1.4B.ipynb**: This notebook showcases the implementation of QLoRA for specific task.
 
-- **after_predict_country.ipynb**: This notebook covers post-prediction data processing, including data formatting, finding indices, and extracting country information.
+- **data_post_processing.ipynb**: This notebook covers post-prediction data processing, including data formatting, finding indices, and extracting country information.
+
+- **data_augmentation.ipynb**: This notebook demonstrates the process of data augmentation using the OpenAI API, incorporating information such as countries.
 
 ## System Information
 - **Operating System**: Fedora Linux 38
